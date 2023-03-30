@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Projet-React/static/css/main.3fce8023.css",
+    "main.js": "/Projet-React/static/js/main.cda07fc5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Projet-React/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Photography.jpg": "/Projet-React/static/media/Photography.4af5a6d7e4fbe4701316.jpg",
+    "static/media/Albums.jpg": "/Projet-React/static/media/Albums.592d9d471faa12e8c92f.jpg",
+    "static/media/Famille.jpg": "/Projet-React/static/media/Famille.4d26c61da755d59ec059.jpg",
+    "static/media/Grosesse.jpg": "/Projet-React/static/media/Grosesse.953cb64c5fb1ab05e599.jpg",
+    "static/media/Moi.jpg": "/Projet-React/static/media/Moi.24a67b94a1a93416f25b.jpg",
+    "static/media/Bebe.jpg": "/Projet-React/static/media/Bebe.1167278dd1d91fb755ab.jpg",
+    "static/media/MeilleursMoment.jpg": "/Projet-React/static/media/MeilleursMoment.033e4bb16ea6a73b368d.jpg",
+    "static/media/PourNous.jpg": "/Projet-React/static/media/PourNous.e7e511910e2a3bb0be07.jpg",
+    "static/media/logo.png": "/Projet-React/static/media/logo.9a59f6d7f89981189b50.png",
+    "index.html": "/Projet-React/index.html",
+    "main.3fce8023.css.map": "/Projet-React/static/css/main.3fce8023.css.map",
+    "main.cda07fc5.js.map": "/Projet-React/static/js/main.cda07fc5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Projet-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fce8023.css",
+    "static/js/main.cda07fc5.js"
+  ]
+}
