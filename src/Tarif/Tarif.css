@@ -1,0 +1,65 @@
+.row .col
+{
+  margin-bottom: 20px;
+}
+
+.col {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.bg-white{
+  width: 375px;
+  height: 250px !important;
+  cursor: pointer;
+  filter: grayscale(100%);
+}
+
+.bg-white:hover {
+  filter: grayscale(0%);
+}
+
+.text {
+  color:white;
+  
+}
+
+.container {
+  margin-top: 50px;
+  
+}
+
+
+.row {
+  margin-bottom: 50px;
+  
+}
+
+
+.Card.Title {
+  position: absolute;
+  top: 10%;
+}
+
+@media (min-width: 392px) and (max-width: 1400px) { 
+  .row {
+    margin-bottom: 10px;
+    
+  }
+  .row .col {
+    margin-bottom: 30px;
+   
+  }
+
+  
+}
+/*
+@media (min-width:280px) and (max-width:392px) {
+    .Card-image {
+        height: 300px;
+      }
+}
+*/

@@ -1,0 +1,109 @@
+#title {
+  font-family: 'Dosis';
+}
+
+.position-relative {
+  display: flex;
+  top: 40px;
+  left: 10px;
+  right: 90px;
+  margin-top: 50px;
+  margin-left: 140px;
+  margin-right:155px;
+  
+}
+
+
+figcaption {
+  color: azure;
+  font-family: 'Dosis';
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  
+}
+
+.img-fluid {
+  
+  height: 500px !important;
+  width: 1000px;
+}
+
+
+
+@media  (max-width: 390px) { 
+  .position-relative {
+      display: flex;
+      left: 0px;
+      margin-top: 40px;
+      margin-left: 40px;
+      margin-right: 40px;
+  }
+
+  figcaption {
+      right:90px
+  }
+
+}
+
+
+
+@media (min-width: 392px) and (max-width: 576px) { 
+  .position-relative {
+      display: flex;
+      left: 0px;
+      margin-top: 40px;
+      margin-left: 40px;
+      margin-right: 40px;
+  }
+
+  figcaption {
+      right:90px
+  }
+
+}
+
+
+
+@media (min-width: 576px) and (max-width: 768px) { 
+  .position-relative {
+      display: flex;
+      margin-top: 40px;
+      margin-left: 20px;
+      margin-right: 20px;
+  }
+
+  figcaption {
+      right:90px
+  }
+
+}
+
+
+
+@media (min-width: 768px) and (max-width: 992px) { 
+  .position-relative {
+      display: flex;
+      left: 0px;
+      margin-top: 40px;
+      margin-left: 40px;
+      margin-right: 40px;
+  }
+
+  figcaption {
+      right:90px
+  }
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1400px) { 
+  .position-relative {
+      display: flex;
+      margin-top: 40px;
+      margin-left: 20px;
+      margin-right: 20px;
+      
+  }
+}
+

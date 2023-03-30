@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+
+.main {
+  min-height: calc(100vh - 216px);
+  font-family: 'Dosis';
+  display: flex;
+  
+}
+
+

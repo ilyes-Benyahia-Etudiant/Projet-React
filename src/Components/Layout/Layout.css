@@ -1,0 +1,47 @@
+/******************************** NAV  ********************************/
+
+.logo {
+    position: relative;
+    bottom: 30px;
+    height: 120px;
+    width: 120px;
+  }
+  
+  
+  .nav-item {
+    text-decoration: none;
+    font-family: 'Dosis';
+    font-size: x-large;
+    font-weight: 500;
+    color: grey;
+    padding: 20px;
+  }
+  
+  a:hover {
+    background-color: rgb(92, 154, 132);
+    color: white;
+    
+  }
+
+
+  
+/*************************** FOOTER ***************************/  
+
+  .footer  {
+    height: 80px;
+    background-color: #F8F9F9;
+    color: black;
+    border-top: solid 1px #F8F9F9;
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+  }
+  
+  #copyright {
+    margin-bottom: 0px;
+    font-family: 'Dosis';
+    
+  }
+    

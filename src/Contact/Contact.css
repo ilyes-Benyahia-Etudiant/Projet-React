@@ -1,0 +1,105 @@
+#contact {
+  background-image: url(./Albums.jpg);
+  background-size: cover;
+  background-repeat: round;
+}
+
+
+.Container-fluid {
+  
+  border: solid 10px grey;
+  border-radius: 280px;
+  margin: auto;
+  position: relative;
+  top: 0;
+  bottom: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(92, 161, 161, .8);
+  height: 500px;
+  width: 500px !important;
+}
+
+
+.contact-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  width: 200px;
+  height: 300px;
+}
+
+
+h2 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+  color: azure;
+  border-radius: 15px;
+  width: 370px;
+  height: 120px;
+  padding: 15px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+#email {
+  margin-right: 170px;
+  margin-top: 5px;
+}
+
+
+#message {
+  margin-right: 190px;
+  margin-left: 230px;
+  margin-top: 20px;
+  width: 400px;
+  
+}
+
+
+.boutton {
+  width: 150px;
+  height: 45px;
+  background-color: green;
+  margin-right: 207px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: white;
+  color: white;
+}
+
+@media (min-width: 280px) and (max-width: 992px) { 
+  .Container-fluid {
+    width: 290px !important;
+    height: 400px;
+   
+  }
+
+  .contact-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+  }
+
+  h2 {
+    font-size: small;
+    width: 200px;
+  }
+  #email {
+    margin-left: 170px;
+  }
+  #message {
+    width: 190px;
+    margin-left: 190px;
+  }
+  .boutton {
+    margin-left: 170px;
+  }
+
+}
+  
