@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className='main'>
 
-      <Container>
+      <Container id='home'>
         <figure className='position-relative'>
         <img src={Photography} alt="Photography" className='img-fluid'/>
             <figcaption>
