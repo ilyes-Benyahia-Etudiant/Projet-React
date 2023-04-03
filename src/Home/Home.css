@@ -1,5 +1,5 @@
 #home {
-  margin-top: 10px;
+  margin-top: 0;
 }
 
 #title {
@@ -8,10 +8,10 @@
 
 .position-relative {
   display: flex;
-  
   left: 10px;
   right: 90px;
-  margin-top: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
   margin-left: 140px;
   margin-right:155px;
   
