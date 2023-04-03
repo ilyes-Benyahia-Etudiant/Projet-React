@@ -1,8 +1,9 @@
 /******************************** NAV  ********************************/
+#nav {
+  margin-top: 0;
+}
 
 .logo {
-    position: relative;
-    bottom: 30px;
     height: 120px;
     width: 120px;
   }

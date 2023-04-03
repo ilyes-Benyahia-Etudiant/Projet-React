@@ -20,7 +20,7 @@ const Header = () => {
   return (
     <div className='Header'>
         <Navbar expand="lg" bg="light">
-            <Container>
+            <Container id='nav'>
                 <img className="logo" src={Logo} alt="logo"></img>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
